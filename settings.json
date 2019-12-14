@@ -1,0 +1,12 @@
+{
+  "landingPrice": {"econom":  100, "economPlus":  200, "business":  300, "premium":  400},
+  "perKilometerPrice":  {"econom":  15, "economPlus":  25, "business":  40, "premium":  60},
+  "minimalPrice": 200,
+  "babyChair": 150,
+  "pet": 200,
+  "nightLandingPrice": 0.5,
+  "nightPerKilometerPrice": 0.25,
+  "tenKilometeresCoefficient": 0.2,
+  "fifteenKilometeresCoefficient": 0.3,
+  "apiKey": "e3f7aaff-aa6f-4ef7-829c-e01c9300cf82"
+}
