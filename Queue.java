@@ -1,6 +1,6 @@
 import java.util.NoSuchElementException;
 
-public class Queue {
+public class Queue implements QueueInterface {
     private int[] items;
     private int pointer;
     public Queue(){

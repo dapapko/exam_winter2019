@@ -1,6 +1,6 @@
 import java.util.NoSuchElementException;
 
-public class Deque {
+public class Deque implements DequeInterface {
     private int[] items;
     public Deque(){
         this.items = new int[0];
